@@ -385,12 +385,9 @@ img {
   color: var(--light-bgc);
 }
 
-.footer .text {
-  color: var(--light-bgc);
-}
-
 .footer-text {
   max-width: 264px;
+  color: var(--light-bgc);
 }
 
 .footer-social-media-text {
@@ -411,10 +408,6 @@ img {
   display: flex;
   gap: 16px;
   align-items: center;
-}
-
-.footer-social-icon {
-  display: flex;
 }
 
 .footer-social-link {
