@@ -155,7 +155,7 @@ img {
 
 .hero {
   max-width: 1440px;
-  height: 600px;
+
   background-color: var(--dark-color);
   margin: 0 auto;
   padding: 188px 0;
@@ -401,7 +401,6 @@ img {
 
 .footer-social-list {
   width: 208px;
-  height: 80px;
 }
 
 .footer-icons-list {
